@@ -10,6 +10,7 @@ Proyecto Formativo SENA
     <title>Document</title>
 </head>
 <body>
-    <h1>ey loka</h1>
+    <h1>ey loka ya llegue yo </h1>
+    <h2>no hay nada que hacer</h2>
 </body>
 </html>
