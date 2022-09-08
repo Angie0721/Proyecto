@@ -11,6 +11,8 @@ Proyecto Formativo SENA
 </head>
 <body>
     <h1>ey loka ya llegue yo </h1>
+    <br>
     <h2>no hay nada que hacer</h2>
+    <br>
 </body>
 </html>
